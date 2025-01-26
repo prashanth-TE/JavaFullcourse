@@ -49,3 +49,6 @@ public class PrimeNumber {
         }
     }
 }
+
+// A number is said to be prime if it is only divisible by 1 and itself.
+// example :- 17 is a prime number because it is only divisible by 1 and 17 only.
