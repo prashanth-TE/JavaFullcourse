@@ -1,3 +1,5 @@
+package com.prashanth;
+
 import java.util.Scanner;
 
 public class FibbanociSeries {
